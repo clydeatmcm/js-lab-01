@@ -13,6 +13,8 @@ Learn Javascripting (JS Core Concepts)
   $> javascripting
   # The JavaScripting lab menu is now visible! If it's not, please seek assistance from your instructor.
   ```
+  * You'll see the menu:
+  ![screenshot](./screenshot)
 - [x] Setup Coding Environment
   * Open another terminal then key in ```code .``` to launch VSCode.
   ```bash
